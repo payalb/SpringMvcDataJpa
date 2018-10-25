@@ -1,4 +1,4 @@
-package com.java.config;
+/*package com.java.config;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -51,3 +51,4 @@ public class MyService implements UserDetailsService {
 	}
 
 }
+*/

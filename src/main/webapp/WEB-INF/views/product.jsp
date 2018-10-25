@@ -8,8 +8,9 @@
 <title>Insert title here</title>
 </head>
 <body>
-<c:forEach var="product" items="${products}">
+${products}
+<%-- <c:forEach var="product" items="${products}">
 	<c:out value="${product}"></c:out><br>
-</c:forEach>
+</c:forEach> --%>
 </body>
 </html>
